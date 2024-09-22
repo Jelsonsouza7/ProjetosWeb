@@ -1,0 +1,48 @@
+*{
+   
+}
+
+.thead-b{
+    background-color: #10502f;
+    color: white;
+    text-align: center;
+    
+}
+
+
+table{
+    color: #000000;
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+
+
+.td  {
+    background-color: blue;
+}
+
+.td-orange {
+    background-color: orange;
+}
+
+.td-green {
+    background-color: green;
+}
+
+.td-red {
+    background-color: red;
+}
+.table{
+    font-size: medium;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.836);
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+
+.tr-foot{
+    text-align: left;
+}
